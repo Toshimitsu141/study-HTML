@@ -91,3 +91,13 @@ a:active{
 .news-item{
   margin:0;
 }
+
+/*about-photo*/
+.shop-photo{
+  float:left;
+  padding:0 1em 1em 0;
+}
+
+.clear{
+  clear:both;
+}
