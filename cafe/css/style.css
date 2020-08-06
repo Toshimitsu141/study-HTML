@@ -101,3 +101,18 @@ a:active{
 .clear{
   clear:both;
 }
+/*table*/
+.info{
+  border-collapse: collapse;
+}
+.info th, .info td{
+  padding: 8px;
+  border: 1px solid #bec2c7;
+  text-allign: left;
+}
+.info th{
+  background-color: #dde2ea;
+  width:90px;
+  color:#3f5170;
+  vertical-align: top;
+}
